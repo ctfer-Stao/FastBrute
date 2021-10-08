@@ -1,0 +1,2 @@
+[<class 'AttributeError'>] 'SubBrute' object has no attribute 'options'
+[<class 'AttributeError'>] 'SubBrute' object has no attribute 'exit_domains'
